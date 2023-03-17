@@ -9,7 +9,7 @@ class Animal {
 
     @Override
     public String toString() {
-        return "AnimalPlanet.Animal[ name = " + name + " ]";
+        return "Animal[ name = " + name + " ]";
     }
 }
 
