@@ -7,16 +7,16 @@ class Holden extends Car {
 
     @Override
     String startEngine() {
-        return "Cars.Holden's engine is starting!";
+        return "Holden's engine is starting!";
     }
 
     @Override
     String accelerate() {
-        return "Cars.Holden is accelerating!";
+        return "Holden is accelerating!";
     }
 
     @Override
     String brake() {
-        return "Cars.Holden is braking!";
+        return "Holden is braking!";
     }
 }
