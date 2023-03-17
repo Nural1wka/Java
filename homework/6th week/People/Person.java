@@ -23,6 +23,6 @@ class Person {
 
     @Override
     public String toString() {
-        return "People.Person[ name = " + name + ", address = " + address + " ]";
+        return "Person[ name = " + name + ", address = " + address + " ]";
     }
 }
