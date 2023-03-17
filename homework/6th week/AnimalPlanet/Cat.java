@@ -10,7 +10,7 @@ class Cat extends Mammal{
 
     @Override
     public String toString() {
-        return "AnimalPlanet.Cat[" + super.toString() + "]";
+        return "Cat[" + super.toString() + "]";
     }
 }
 
