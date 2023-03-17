@@ -7,7 +7,7 @@ class Mammal extends Animal {
 
     @Override
     public String toString() {
-        return "AnimalPlanet.Mammal[" + super.toString() + "]";
+        return "Mammal[" + super.toString() + "]";
     }
 }
 
