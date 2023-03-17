@@ -7,16 +7,16 @@ class Ford extends Car {
 
     @Override
     String startEngine() {
-        return "Cars.Ford's engine is starting!";
+        return "Ford's engine is starting!";
     }
 
     @Override
     String accelerate() {
-        return "Cars.Ford is accelerating!";
+        return "Ford is accelerating!";
     }
 
     @Override
     String brake() {
-        return "Cars.Ford is braking!";
+        return "Ford is braking!";
     }
 }
