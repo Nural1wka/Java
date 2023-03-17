@@ -13,6 +13,6 @@ class Dog extends Mammal{
 
     @Override
     public String toString() {
-        return "AnimalPlanet.Dog[" + super.toString() + "]";
+        return "Dog[" + super.toString() + "]";
     }
 }
