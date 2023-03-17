@@ -15,15 +15,15 @@ class Car {
     }
 
     String startEngine() {
-        return "Cars.Car's engine is starting!";
+        return "Car's engine is starting!";
     }
 
     String accelerate() {
-        return "Cars.Car is accelerating!";
+        return "Car is accelerating!";
     }
 
     String brake() {
-        return "Cars.Car is breaking";
+        return "Car is breaking";
     }
 
     public int getCylinders() {
